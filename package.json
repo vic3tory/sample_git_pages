@@ -21,6 +21,7 @@
   ],
   "author": "Victory J.M. Uzochukwu",
   "license": "ISC",
+  "homepage": "https://vic3tory.github.io/sample_git_pages",
   "devDependencies": {
     "grunt": "^1.3.0",
     "grunt-contrib-watch": "^1.1.0",

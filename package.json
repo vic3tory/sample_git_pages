@@ -1,0 +1,34 @@
+{
+  "name": "hska",
+  "version": "1.0.0",
+  "description": "This is just a simple github page package",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "keywords": [
+    "HsKA",
+    "-",
+    "University",
+    "of",
+    "Applied",
+    "Sciences",
+    "Karlsruhe",
+    "Germany"
+  ],
+  "author": "Victory J.M. Uzochukwu",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^2.1.0",
+    "jit-grunt": "^0.10.0",
+    "lite-server": "^2.5.4",
+    "time-grunt": "^1.4.0"
+  },
+  "dependencies": {
+    "grunt-browser-sync": "^2.2.0"
+  }
+}

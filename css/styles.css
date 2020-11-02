@@ -30,7 +30,8 @@ body {
   width: 100%;
   background: white;
   margin-top: 4em;
-  position: relative; }
+  position: relative;
+  box-shadow: 1px 1px #dcdcdc; }
 
 #git-icon-span {
   font-size: 4em;
@@ -87,3 +88,9 @@ a {
 #parent-flexy-button-div {
   display: flex;
   justify-content: flex-end; }
+
+#parent-footer {
+  font-size: .7em;
+  color: #dcdcdc;
+  padding: 1em;
+  text-align: center; }

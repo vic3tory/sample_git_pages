@@ -20,7 +20,8 @@ body {
 .container {
   width: 50%;
   margin: auto;
-  position: relative; }
+  position: relative;
+  min-width: 40em; }
 
 #hska-span {
   color: grey;
@@ -51,15 +52,13 @@ body {
   padding-bottom: 2em; }
 
 #desc-span {
-  color: grey;
-  font-weight: 900;
-  margin-left: 2em; }
+  font-size: 2em;
+  margin-left: 1em; }
 
 #bottom-desc-div {
   width: 90%;
   text-align: center;
   color: grey;
-  padding-bottom: 2em;
   margin: 4em auto;
   line-height: 1.6em; }
 
@@ -79,7 +78,8 @@ a {
 #visit-div {
   border: solid thin #614ad3;
   padding: 1em;
-  margin: 2em;
+  margin-right: 2em;
+  margin-bottom: 2em;
   width: 10em;
   text-align: center;
   color: #614ad3;
